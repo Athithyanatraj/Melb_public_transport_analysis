@@ -38,7 +38,7 @@ The screenshots below are saved from the project dashboard. They show scheduled-
 
 ### Scheduled-service overview
 
-![Top lines by scheduled journeys and top stations by scheduled stop events](docs/screenshots/dashboard-service-overview.png)
+![Top lines by scheduled journeys and top stations by scheduled stop events]([docs/screenshots/dashboard-service-overview.png](https://github.com/Athithyanatraj/Melb_public_transport_analysis/blob/main/docs/Databricks_dashboard-1.png))
 
 ### Weekday, weekend, and accessibility view
 
