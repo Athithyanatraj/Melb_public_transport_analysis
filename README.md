@@ -4,7 +4,7 @@
 
 ## Project overview
 
-This project explores scheduled Melbourne metropolitan train services using Victorian GTFS timetable data. It demonstrates a Databricks workflow for preparing data with PySpark, creating Delta tables, and analysing service patterns. The project does not analyse actual patronage or punctuality.
+This project explores scheduled Melbourne metropolitan train services using Victorian GTFS timetable data. It demonstrates a Databricks workflow for preparing data with PySpark, creating Delta tables,[...]
 
 ## Planned tools
 
@@ -28,7 +28,7 @@ The dashboard documentation, reproducible setup instructions, documented data so
 
 ## Databricks dashboard
 
-A published Databricks dashboard is available in the project workspace: [Open the dashboard](https://dbc-d0e3bc0b-bca5.cloud.databricks.com/dashboardsv3/01f1c91a3fc515a3bc61b7350c5c988c/published?o=7474657943932641).
+A published Databricks dashboard is available in the project workspace: [Open the dashboard](https://dbc-d0e3bc0b-bca5.cloud.databricks.com/dashboardsv3/01f1c91a3fc515a3bc61b7350c5c988c/published?o=74[...] 
 
 Access currently requires permission to the Databricks workspace, so it is not a public portfolio link.
 
@@ -38,11 +38,11 @@ The screenshots below are saved from the project dashboard. They show scheduled-
 
 ### Scheduled-service overview
 
-![Top lines by scheduled journeys and top stations by scheduled stop events]([docs/screenshots/dashboard-service-overview.png](https://github.com/Athithyanatraj/Melb_public_transport_analysis/blob/main/docs/Databricks_dashboard-1.png))
+![Dashboard - service overview](https://raw.githubusercontent.com/Athithyanatraj/Melb_public_transport_analysis/main/docs/Databricks_dashboard-1.png)
 
 ### Weekday, weekend, and accessibility view
 
-![Weekday versus weekend scheduled journeys by line and station accessibility](docs/screenshots/dashboard-weekday-weekend-accessibility.png)
+![Weekday versus weekend scheduled journeys by line and station accessibility](https://raw.githubusercontent.com/Athithyanatraj/Melb_public_transport_analysis/main/docs/Databricks_dashboard-2.png)
 
 ## Planned workflow
 
